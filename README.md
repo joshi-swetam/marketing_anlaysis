@@ -2,7 +2,7 @@
 
 1. Marketing Analysis Dashboard
 
-    - <a href="https://app.powerbi.com/view?r=eyJrIjoiZjIxMmZmZmMtNWEyMy00ZmJlLTg5MjUtNmFlN2QyOGNkZDhmIiwidCI6ImYwZmVhNGY5LTc2OTctNDYzMy04YmE3LTRlMzRlNDdiMThhZSJ9" target="_blank">Marketing Analysis Dashboard</a>
+    - <a href="https://app.powerbi.com/view?r=eyJrIjoiZjIxMmZmZmMtNWEyMy00ZmJlLTg5MjUtNmFlN2QyOGNkZDhmIiwidCI6ImYwZmVhNGY5LTc2OTctNDYzMy04YmE3LTRlMzRlNDdiMThhZSJ9&pageName=fe4b9d1737178a2ba35a" target="_blank">Marketing Analysis Dashboard</a>
 
 2. Snowflake .ipynb
     - **Improvado_Marketing_Analysis.ipynb**: General validation and addition of calculated columns
