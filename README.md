@@ -13,7 +13,7 @@
     ![Power BI Data Model](Power_BI_data_model.png)
 
 4. Snowflake Data Model
-    ![Snowflake Data Model](Power_BI_data_model.png)
+    ![Snowflake Data Model](Snowflake_schema.png)
 
 5. Snowflake All Ads Columns
-    ![Columns](Power_BI_data_model.png)
+    ![Columns](Snowflake_all_ads_columns.png)
